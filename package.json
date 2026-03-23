@@ -40,7 +40,7 @@
   "homepage": "https://github.com/LXGIC-Studios/ai-cloudflare#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/LXGIC-Studios/ai-cloudflare"
+    "url": "git+https://github.com/LXGIC-Studios/ai-cloudflare.git"
   },
   "bugs": {
     "url": "https://github.com/LXGIC-Studios/ai-cloudflare/issues"
