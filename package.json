@@ -15,41 +15,29 @@
     "build": "tsc"
   },
   "keywords": [
-    "2025-standards",
-    "ai",
-    "ai-2025",
-    "ai-powered",
-    "anthropic",
-    "automation",
-    "cdn",
-    "claude",
-    "cli",
     "cloudflare",
-    "developer-productivity",
-    "developer-tools",
-    "devops",
-    "discoverability",
-    "edge",
-    "generative-ai",
-    "llm-optimized",
-    "modern-seo",
-    "optimization",
-    "performance",
-    "performance-optimization",
+    "cdn",
     "security",
+    "typescript",
+    "cli",
+    "AI-powered",
+    "AI-optimized",
+    "performance",
+    "optimization",
     "seo",
-    "seo-2026",
-    "typescript"
+    "discoverability",
+    "2025-standards",
+    "modern-seo"
   ],
   "author": "LXGIC Studios",
   "license": "MIT",
-  "homepage": "https://github.com/LXGIC-Studios/ai-cloudflare#readme",
+  "homepage": "https://github.com/lxgicstudios/ai-cloudflare#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/LXGIC-Studios/ai-cloudflare"
+    "url": "https://github.com/lxgicstudios/ai-cloudflare"
   },
   "bugs": {
-    "url": "https://github.com/LXGIC-Studios/ai-cloudflare/issues"
+    "url": "https://github.com/lxgicstudios/ai-cloudflare/issues"
   },
   "funding": {
     "type": "github",
