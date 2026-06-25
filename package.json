@@ -45,7 +45,9 @@
     "page-speed",
     "robots-txt",
     "serverless",
-    "workers"
+    "workers",
+    "2026-standards",
+    "modern-seo"
   ],
   "license": "MIT",
   "main": "dist/index.js",
