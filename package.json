@@ -38,16 +38,11 @@
     "cloudflare",
     "edge-computing",
     "edge-seo",
-    "generative-engine-optimization",
-    "geo",
     "hreflang",
-    "may-2026-core-update",
     "page-speed",
     "robots-txt",
     "serverless",
-    "workers",
-    "2026-standards",
-    "modern-seo"
+    "workers"
   ],
   "license": "MIT",
   "main": "dist/index.js",
