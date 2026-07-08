@@ -8,14 +8,14 @@
     "ai-cloudflare": "dist/cli.js"
   },
   "bugs": {
-    "url": "https://github.com/LXGIC-Studios/npm-tools/issues"
+    "url": "https://github.com/LXGIC-Studios/ai-cloudflare/issues"
   },
   "dependencies": {
     "commander": "^12.1.0",
     "openai": "^4.73.0",
     "ora": "^5.4.1"
   },
-  "description": "AI-powered cloudflare tool for modern development workflows",
+  "description": "Generate Cloudflare Workers configuration and code using AI. Edge function setup, KV namespaces, and routing. Works with Wrangler and Pages.",
   "devDependencies": {
     "typescript": "^5.6.0",
     "@types/node": "^22.0.0"
@@ -31,18 +31,36 @@
     "type": "github",
     "url": "https://github.com/sponsors/LXGIC-Studios"
   },
-  "homepage": "https://github.com/LXGIC-Studios/npm-tools/tree/main/ai-cloudflare",
+  "homepage": "https://github.com/LXGIC-Studios/ai-cloudflare",
   "keywords": [
+    "cloudflare",
+    "workers",
+    "edge",
+    "serverless",
+    "deployment",
+    "configuration",
+    "wrangler",
+    "ai",
+    "automation",
+    "cli",
+    "developer-tools",
+    "npx",
+    "typescript",
+    "nodejs",
+    "openai",
+    "anthropic",
+    "claude",
+    "cursor",
+    "gpt",
+    "copilot",
+    "devtools",
+    "vibe-coding",
     "canonical-urls",
     "cdn",
-    "cloudflare",
     "edge-computing",
     "edge-seo",
     "hreflang",
-    "page-speed",
-    "robots-txt",
-    "serverless",
-    "workers"
+    "robots-txt"
   ],
   "license": "MIT",
   "main": "dist/index.js",
@@ -53,8 +71,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LXGIC-Studios/npm-tools.git",
-    "directory": "ai-cloudflare"
+    "url": "git+https://github.com/LXGIC-Studios/ai-cloudflare.git"
   },
   "scripts": {
     "build": "tsc"
