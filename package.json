@@ -47,10 +47,7 @@
     "deployment",
     "developer-tools",
     "devtools",
-    "edge",
-    "typescript",
-    "javascript",
-    "nodejs"
+    "edge"
   ],
   "license": "MIT",
   "main": "dist/index.js",
